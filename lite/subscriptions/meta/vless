@@ -145,7 +145,7 @@ proxies:
   - {"name":"🇮🇷IR | 🔴 | vless | @Outline_Vpn | 17","type":"vless","server":"89.235.118.236","port":2053,"udp":false,"uuid":"4219373a-412d-4347-80b3-85e7b5a38728","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18","type":"vless","server":"172.64.86.128","port":80,"udp":false,"uuid":"186c6afe-7234-4911-839f-77086e9b7278","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2048","headers":{"host":"workerr.d6dkppf4.workers.dev"}}}
   - {"name":"🇸🇪SE | 🔴 | vless | @prrofile_purple | 188","type":"vless","server":"185.146.173.92","port":2095,"udp":false,"uuid":"95f02723-bb94-436d-a1eb-c684b9e383c1","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com."}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @customv2ray | 15","type":"vless","server":"eagle.hafezdivan.online.","port":443,"udp":false,"uuid":"c416be20-32b3-467f-83c2-735e04d639f7","tls":true,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/TELEGRAM-MARAMBASHI/?ed=2048"}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @customv2ray | 15","type":"vless","server":"eagle.hafezdivan.online.","port":443,"udp":false,"uuid":"c416be20-32b3-467f-83c2-735e04d639f7","tls":true,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/TELEGRAM-MARAMBASHI/?ed=2048"}}
   - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 12","type":"vless","server":"188.114.98.224","port":8080,"udp":false,"uuid":"51fb6d6c-2d80-443e-b7e6-062d274832b7","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev","headers":{"host":"unlimiteddev-vpn.unlimiteddev.Community."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 13","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"51fb6d6c-2d80-443e-b7e6-062d274832b7","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080","headers":{"host":"unlimiteddev-vpn.unlimiteddev.Community."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @vmessorg | 10","type":"vless","server":"104.21.78.161","port":8080,"udp":false,"uuid":"f08f8ced-6fa5-4f1b-8e54-4dab0978fdf6","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080","headers":{"host":"join-to.vmessorg.Community."}}}
@@ -225,7 +225,7 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @Outline_Vpn | 17'
       - '🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18'
       - '🇸🇪SE | 🔴 | vless | @prrofile_purple | 188'
-      - '🇺🇸US | 🔴 | vless | @customv2ray | 15'
+      - '🇨🇦CA | 🔴 | vless | @customv2ray | 15'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 12'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 13'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 10'
@@ -305,7 +305,7 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @Outline_Vpn | 17'
       - '🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18'
       - '🇸🇪SE | 🔴 | vless | @prrofile_purple | 188'
-      - '🇺🇸US | 🔴 | vless | @customv2ray | 15'
+      - '🇨🇦CA | 🔴 | vless | @customv2ray | 15'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 12'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 13'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 10'
@@ -384,7 +384,7 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @Outline_Vpn | 17'
       - '🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18'
       - '🇸🇪SE | 🔴 | vless | @prrofile_purple | 188'
-      - '🇺🇸US | 🔴 | vless | @customv2ray | 15'
+      - '🇨🇦CA | 🔴 | vless | @customv2ray | 15'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 12'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 13'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 10'
