@@ -175,7 +175,6 @@
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 36",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 37",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "🇲🇾MY | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 13",
                 "🇲🇾MY | 🔴 | vless | @free1_vpn | 0",
@@ -185,7 +184,7 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 16",
                 "🇲🇾MY | 🔴 | vless | @Outlinev2rayNG | 17",
                 "🇲🇾MY | 🔴 | vless | @v2rayng_vpnrog | 10",
-                "TVCunamfpmjle",
+                "TVCemjbjttsvt",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
                 "🇮🇷IR | 🔴 | vless | @Capoit | 2",
@@ -284,7 +283,6 @@
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 36",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 37",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "🇲🇾MY | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 13",
                 "🇲🇾MY | 🔴 | vless | @free1_vpn | 0",
@@ -294,7 +292,7 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 16",
                 "🇲🇾MY | 🔴 | vless | @Outlinev2rayNG | 17",
                 "🇲🇾MY | 🔴 | vless | @v2rayng_vpnrog | 10",
-                "TVCunamfpmjle",
+                "TVCemjbjttsvt",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
                 "🇮🇷IR | 🔴 | vless | @Capoit | 2",
@@ -1969,30 +1967,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "eagle.hafezdivan.online.",
-            "server_port": 80,
-            "uuid": "c416be20-32b3-467f-83c2-735e04d639f7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "eagle.hafezdivan.online."
-                }
-            }
-        },
-        {
-            "tag": "🇲🇾MY | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "172.66.44.165",
+            "server": "188.114.97.141",
             "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "uuid": "d7bbfe83-b037-48ae-996c-b98ed0441ba2",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2002,7 +1979,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "eb043cC5.mkhAlILi.PAges.DEv",
+                "server_name": "e10c0e4b.oodaeq2.pages.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -2012,9 +1989,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/wstBteiWzlzWfZGp",
+                "path": "\/Telegram-@proxy_mtm\/?ed=2560",
                 "headers": {
-                    "Host": "eb043cC5.mkhAlILi.PAges.DEv"
+                    "Host": "e10c0e4b.oodaeq2.pages.dev"
                 }
             }
         },
@@ -2228,7 +2205,7 @@
             }
         },
         {
-            "tag": "TVCunamfpmjle",
+            "tag": "TVCemjbjttsvt",
             "type": "vless",
             "server": "",
             "server_port": 0,
